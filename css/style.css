@@ -104,6 +104,10 @@ body {
   width: 100%;
   max-width: 160px;
   text-align: center;
+  transition: 0.4s;
+}
+.intro__bild-now:hover {
+  box-shadow: 0px 0px 30px #6947cb;
 }
 .intro__learn-more {
   border: 2px solid skyblue;
@@ -251,6 +255,10 @@ body {
   background: linear-gradient(97.62deg, #eb11aa -15.99%, #2e81e2 104.3%);
   border-radius: 2px;
   padding: 15px 50px;
+  transition: 0.4s;
+}
+.about-us__btn:hover {
+  box-shadow: 0px 0px 30px #6947cb;
 }
 .about-us__bottom {
   display: flex;
@@ -366,6 +374,10 @@ body {
   padding: 13px 24px;
   text-decoration: none;
   color: #fff;
+  transition: 0.4s;
+}
+.special__information-btn:hover {
+  box-shadow: 0px 0px 30px #6947cb;
 }
 .special__price {
   margin-top: 31px;
@@ -554,6 +566,10 @@ body {
   padding: 15px 56px;
   background: linear-gradient(97.62deg, #eb11aa -15.99%, #2e81e2 104.3%);
   border-radius: 2px;
+  transition: 0.4s;
+}
+.artist__btn:hover {
+  box-shadow: 0px 0px 30px #6947cb;
 }
 
 .create-nft {
@@ -597,6 +613,10 @@ body {
   padding: 15px 50px;
   background: linear-gradient(97.62deg, #eb11aa -15.99%, #2e81e2 104.3%);
   border-radius: 2px;
+  transition: 0.4s;
+}
+.create-nft__btn:hover {
+  box-shadow: 0px 0px 30px #6947cb;
 }
 
 .footer {
