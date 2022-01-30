@@ -4,6 +4,11 @@ body {
   background: #0a0c26;
   color: #fff;
   overflow-x: hidden;
+    position: relative
+}
+
+html, body {
+  overflow-x: hidden;
 }
 
 .header {
